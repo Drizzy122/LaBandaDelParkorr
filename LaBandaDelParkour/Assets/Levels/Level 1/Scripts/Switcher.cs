@@ -7,6 +7,6 @@ public class Switcher : MonoBehaviour
 {
     void OnTriggerEnter(Collider other)
     {
-        SceneManager.LoadScene("Credits");
+        SceneManager.LoadScene("ConstructionSite");
     }
 }
